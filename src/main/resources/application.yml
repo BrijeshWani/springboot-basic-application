@@ -1,2 +1,6 @@
 spring.application.name: springboot-client
 server.port: 8080
+
+# Banner location
+spring.banner.location: banner.txt
+spring.main.banner-mode: "console"
