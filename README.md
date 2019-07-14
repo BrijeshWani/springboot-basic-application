@@ -74,7 +74,5 @@ public class ApplicationArgumentAccessor {
 
 ### CommandLineRunner & ApplicationRunner
 These interfaces can be implemented for code which you need to execute only ones on application start.
-Check below classes from this application,
-springboot.on_app_start_execution.MyApplicationRunner
-springboot.on_app_start_execution.MyCommandLineRunner
+Check [springboot.on_app_start_execution.MyApplicationRunner](https://github.com/BrijeshWani/springboot-basic-application/blob/master/src/main/java/springboot/on_app_start_execution/MyCommandLineRunner.java) and [springboot.on_app_start_execution.MyCommandLineRunner](https://github.com/BrijeshWani/springboot-basic-application/blob/master/src/main/java/springboot/on_app_start_execution/MyApplicationRunner.java)
 
