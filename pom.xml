@@ -14,17 +14,12 @@
 		<version>1.5.13.RELEASE</version>
 	</parent>
 
+
 	<!-- Add typical dependencies for a web application -->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-
-		<!-- Test -->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
 		</dependency>
 	</dependencies>
 
