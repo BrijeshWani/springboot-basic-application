@@ -34,7 +34,7 @@ This annotation is used with method(non-static).
 ```java
 	@PostConstruct
 	private void postConstruct() {
-		// Withh be executed after all beans init.
+		// Will be executed after all beans init.
 	}
 ```
 
