@@ -1,5 +1,1 @@
-Application Version ---> ${application.version}
-   _     _     _     _     _     _     _     _     _     _       _     _     _     _     _  
-  / \   / \   / \   / \   / \   / \   / \   / \   / \   / \     / \   / \   / \   / \   / \ 
- ( S ) ( p ) ( r ) ( i ) ( n ) ( g ) ( b ) ( o ) ( o ) ( t )   ( B ) ( a ) ( s ) ( i ) ( c )
-  \_/   \_/   \_/   \_/   \_/   \_/   \_/   \_/   \_/   \_/     \_/   \_/   \_/   \_/   \_/
+Springboot Junit Test
